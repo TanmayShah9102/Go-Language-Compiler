@@ -1,0 +1,9 @@
+|IDX|NAME           |TYPE              |LINE |COL  |
+|16 |package        |Keyword           |1    |1    |
+|21 |main           |Variable          |1    |9    |
+|27 |fmt            |Variable          |9    |5    |
+|28 |func           |Keyword           |5    |1    |
+|43 |Println        |Variable          |9    |9    |
+|67 |import         |Keyword           |3    |1    |
+|95 |"fmt"          |String Literal    |3    |8    |
+|97 |"Hello, World!"|String Literal    |9    |17   |
